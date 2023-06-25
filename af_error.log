@@ -1,0 +1,4 @@
+time="2023-06-25T21:01:33+08:00" level=error msg="read message" error="websocket: close 1001 (going away)"
+time="2023-06-25T21:01:43+08:00" level=error msg="read message" error="websocket: close 1001 (going away)"
+time="2023-06-25T21:02:13+08:00" level=error msg="read message" error="websocket: close 1001 (going away)"
+time="2023-06-25T21:14:19+08:00" level=error msg="read message" error="websocket: close 1001 (going away)"

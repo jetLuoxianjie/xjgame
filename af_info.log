@@ -1,0 +1,6 @@
+time="2023-06-25T20:55:34+08:00" level=info msg="start success..."
+time="2023-06-25T20:59:00+08:00" level=info msg="Got signal:interrupt"
+time="2023-06-25T20:59:02+08:00" level=info msg="start success..."
+time="2023-06-25T21:02:18+08:00" level=info msg="Got signal:interrupt"
+time="2023-06-25T21:13:53+08:00" level=info msg="start success..."
+time="2023-06-25T21:14:25+08:00" level=info msg="Got signal:interrupt"
